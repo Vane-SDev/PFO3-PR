@@ -1,5 +1,6 @@
 # Arquitectura Distribuida - PFO 3
 
+```mermaid
 graph TD
     %% Capa de Clientes
     C1[Cliente Móvil] -->|TCP/HTTP| LB
@@ -33,3 +34,4 @@ graph TD
     MQ -->|Persiste datos estructurados| DB
     W1 -->|Archivos binarios| S3
     W2 -->|Archivos binarios| S3
+```
