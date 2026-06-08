@@ -1,4 +1,4 @@
-# Arquitectura Distribuida - PFO 3
+# Arquitectura Distribuida - PFO 3 PR. Vanesa Soria
 
 ```mermaid
 graph TD
